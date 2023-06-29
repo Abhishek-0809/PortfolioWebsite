@@ -1,0 +1,87 @@
+/* ------------------------------------FourthSection-ContactMe------------------------------------ */
+
+#FourthSection-ContactMe {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 1.6rem;
+  width: 90%;
+}
+
+.contact-left {
+  flex-basis: 35%;
+  height: 26rem;
+  padding: 3rem;
+}
+
+.contact-right {
+  flex-basis: 50%;
+}
+
+.contact-left h1 {
+  /* text-align: center; */
+  font-size: 50px;
+}
+
+.contact-left p {
+  margin-top: 30px;
+}
+
+.contact-left p i {
+  color: rgb(0, 171, 171);
+  margin-right: 15px;
+  font-size: 30px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 2rem;
+  width: 56%;
+}
+
+.social-icons a {
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 15px;
+  display: inline-block;
+  color: rgb(70, 67, 63);
+  transition: transform 0.3s;
+}
+
+.social-icons a:hover {
+  color: rgb(0, 171, 171);
+  transform: translateY(-5px);
+}
+
+.contact-right form {
+  width: 100%;
+}
+
+.contact-right form input,
+form textarea {
+  width: 100%;
+  border: 0;
+  outline: none;
+  background: rgb(70, 67, 63);
+  padding: 15px;
+  margin: 15px 0;
+  color: white;
+  font-size: 18px;
+  border-radius: 6px;
+}
+
+.btn.btn-submit {
+  margin: auto;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+#msg {
+  text-align: center;
+  color: #ff004f;
+  margin-top: 7px;
+  display: block;
+}
+/* --------------------------------------------------- */

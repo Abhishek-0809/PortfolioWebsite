@@ -1,0 +1,32 @@
+/* ------------------------------------General------------------------------------ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* ------------------------------------Header-NavBar------------------------------------ */
+
+/* ------------------------------------Main------------------------------------ */
+main {
+  margin-top: 80px;
+}
+
+/* ------------------------------------Footer------------------------------------ */
+.copyright {
+  width: 100%;
+  text-align: center;
+  padding: 25px 0;
+  background: rgb(70, 67, 63);
+  font-weight: 300;
+  margin-top: 20px;
+}

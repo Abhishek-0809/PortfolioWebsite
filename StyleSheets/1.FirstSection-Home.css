@@ -1,0 +1,67 @@
+/* ------------------------------------FirstSection-Home------------------------------------ */
+
+#FirstSection-Home {
+  display: flex;
+  justify-content: space-between;
+  padding: 1.6rem;
+  align-items: center;
+}
+
+/* This ">" symbol gives the ability of applying css to only first div of this class(firstsection) */
+/* #FirstSection-Home > div { */
+
+.firstsection-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+  font-size: 30px;
+  margin-left: 200px;
+}
+
+.intro-text .Greet {
+  font-size: 13px;
+}
+
+.intro-text .cyan {
+  color: rgb(0, 171, 171);
+}
+
+/* Abhishek,webdev,programmer,extc in different color */
+#element {
+  color: rgb(0, 171, 171);
+}
+
+/* resume button */
+.btn {
+  display: block;
+  /* margin: 25px auto; */
+  margin-top: 25px;
+  margin-left: 25px;
+  width: fit-content;
+  border: 1px solid rgb(0, 171, 171);
+  padding: 14px 50px;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #fff;
+  background: none;
+  transition: background 0.3s;
+}
+
+.btn:hover {
+  background: rgb(0, 171, 171);
+  color: black;
+}
+
+.firstsection-right img {
+  width: 22rem;
+  margin-right: 185px;
+}
+
+main hr {
+  border: 1.5px solid rgb(0, 171, 171);
+  border-radius: 20%;
+  /* background:rgb(0, 171, 171); */
+  /* height: 3px; */
+  margin: 0px 50px;
+}
