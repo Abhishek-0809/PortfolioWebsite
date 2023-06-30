@@ -3,7 +3,8 @@
 #FirstSection-Home {
   display: flex;
   justify-content: space-between;
-  padding: 1.6rem;
+  padding-top: 4rem;
+  padding-bottom: 1rem;
   align-items: center;
 }
 
