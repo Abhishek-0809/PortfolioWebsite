@@ -1,4 +1,4 @@
-/* ------------------------------------FirstSection-Home------------------------------------ */
+/* -----------------------------FirstSection-Home----------------------------- */
 
 #FirstSection-Home {
   display: flex;
@@ -46,7 +46,8 @@
   text-decoration: none;
   color: #fff;
   background: none;
-  transition: background 0.3s;
+  transition: background 0.5s;
+  cursor: pointer;
 }
 
 .btn:hover {

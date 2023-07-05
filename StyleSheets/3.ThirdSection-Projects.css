@@ -1,11 +1,27 @@
+/* ----------------------------ThirdSection-Projects---------------------------- */
 
-/* ------------------------------------ThirdSection-Projects------------------------------------ */
-/* 
 #ThirdSection-Projects {
-  display: flex;
+  /* display: flex;
   justify-content: space-around;
-  align-items: center;
-  margin-top: -55px;
-} */
+  align-items: center; */
+  padding-top: 110px;
+  margin-top: -100px;
+}
 
-/* 
+#ThirdSection-Projects h1 {
+  text-align: center;
+}
+
+.projectflex {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+}
+
+.projectflex button {
+  margin: auto;
+}
+
+.projectflex p {
+  padding: 2rem 4rem;
+}
