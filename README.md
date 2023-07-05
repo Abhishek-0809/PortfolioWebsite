@@ -1,2 +1,7 @@
-# PortfolioWebsite
-Welcome to my portfolio website! Please note that this website is currently undergoing development as I work on enhancing and expanding its content. For a better experience, please access it on a PC or laptop, as it is not yet fully responsive.
+# Portfolio Website
+
+Welcome to my portfolio website repository! This repository contains the source code and assets for my personal portfolio website.
+
+## Description
+
+This website serves as a showcase of my skills, projects, and experiences. It provides visitors with an overview of my background, highlights my portfolio projects, and offers a way to contact me.
