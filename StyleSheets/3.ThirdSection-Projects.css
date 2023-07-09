@@ -19,9 +19,11 @@
 }
 
 .projectflex button {
-  margin: auto;
+  /* margin: auto; */
+  margin: 0rem 3rem;
+  margin-top: 1rem;
 }
 
 .projectflex p {
-  padding: 2rem 4rem;
+  padding: 2rem 3rem;
 }
